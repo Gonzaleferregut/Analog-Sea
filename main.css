@@ -1,0 +1,87 @@
+.logo {
+  height: 35px;
+  padding: 20px;
+}
+
+div {
+  text-align: center;
+}
+
+body {
+  background-color: lightblue;
+}
+
+.form {
+  width: 316px;
+  height: 425px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 40px;
+  padding-right: 40px;
+  background-color: white
+}
+
+.signup {
+  display: block;
+  padding: 15px;
+  font-size: 30px;
+}
+
+.email {
+  display: block;
+  padding: 15px;
+  position: relative;
+  left: -138px;
+}
+
+.email1 {
+  width: 286px;
+  border: 2px black solid;
+  padding: 15px;
+  height: 21px;
+}
+
+.password {
+  display: block;
+  padding: 15px;
+  position: relative;
+  left: -128px;
+}
+
+.password1 {
+  width: 286px;
+  border: 2px black solid;
+  padding: 15px;
+  height: 21px;
+}
+
+.btn {
+  font-size: 22px;
+  color: white;
+  display: block;
+  width: 318px;
+  border: 2px black solid;
+  padding: 25px;
+  height: 21px;
+  margin-top: 20px;
+  background-color: #0CB863;
+}
+
+.btn:hover {
+  background-color: darkgreen;
+}
+
+/*span {
+  padding: 25px;
+}
+*/
+
+/*  Couldnt get this to work got stuck I believe it's one of the other properties
+.forgotp {
+  text-align: center;
+}
+*/
+
+p {
+  text-align: center;
+}
